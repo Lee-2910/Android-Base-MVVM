@@ -67,6 +67,8 @@ dependencies {
 
     addJunit()
 
+    addAndroidXInstrumentTest()
+
     addHilt()
 
     addTimber()
