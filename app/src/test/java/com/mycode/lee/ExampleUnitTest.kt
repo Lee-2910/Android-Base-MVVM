@@ -22,6 +22,6 @@ class ExampleUnitTest {
 
     @Test
     fun addition_isEquals() {
-        assertEquals(3, 2 + 4)
+        assertEquals(3, 2 + 1)
     }
 }
